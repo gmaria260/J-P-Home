@@ -111,6 +111,7 @@ header {
 	   background: brown;
 	   transition: 0.5s;
 	   overflow: hidden;
+	    font-size: 20px;
    }
    .nav-bar.active {
        height: 450px;
