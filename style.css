@@ -90,7 +90,7 @@ header {
        padding: 0 30px;
    }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 900px) {
    header {
        padding: 0 30px;
    }
@@ -105,7 +105,7 @@ header {
 	   margin: 6px 0;
    }
    .nav-bar {
-       height: 550px;
+       height: 300px;
        position: absolute;
 	   top: 80px;
 	   left: 0;
